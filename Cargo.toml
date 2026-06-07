@@ -1,0 +1,12 @@
+[package]
+name = "digital-signature-rs"
+version = "0.1.0"
+edition = "2021"
+description = "Digital signature schemes in Rust: ElGamal, Schnorr, and RSA-PSS style implementations"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/SuperInstance/digital-signature-rs"
+keywords = ["digital-signature", "elgamal", "schnorr", "rsa", "cryptography"]
+categories = ["algorithms", "cryptography"]
+readme = "README.md"
+
+[dependencies]
